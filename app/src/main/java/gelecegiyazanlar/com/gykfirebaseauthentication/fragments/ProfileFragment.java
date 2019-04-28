@@ -25,7 +25,6 @@ import com.google.firebase.storage.StorageReference;
 
 import gelecegiyazanlar.com.gykfirebaseauthentication.R;
 import gelecegiyazanlar.com.gykfirebaseauthentication.activities.AddPhotoActivity;
-import gelecegiyazanlar.com.gykfirebaseauthentication.models.PhotoModel;
 
 /**
  * A simple {@link Fragment} subclass.
